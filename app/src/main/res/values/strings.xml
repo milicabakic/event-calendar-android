@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Events</string>
+
+    //Main activity
+    <string name="main_btn1">Add event</string>
+    <string name="main_btn2">Show events</string>
+
+    //Add event activity
+    <string name="event_name">Event name</string>
+    <string name="event_description">Description</string>
+    <string name="check_time">Check time for location</string>
+    <string name="city">City</string>
+    <string-array name="cities" >
+        <item>Amsterdam</item>
+        <item>Athens</item>
+        <item>Belgrade</item>
+        <item>Budapest</item>
+    </string-array>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set time</string>
+    <string name="event_url">URL</string>
+    <string-array name="spinnerItems">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="save_event">Save event</string>
+
+    //Show events activity
+    <string name="all_events">All events</string>
+
+</resources>
